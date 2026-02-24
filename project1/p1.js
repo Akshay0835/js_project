@@ -8,7 +8,7 @@ buttons.forEach(function(button) {
         body.style.backgroundColor = e.target.id;
        }
        if(e.target.id==='white'){
-        body.style.backgroundColor = e.target.id;
+        body.style.backgroundColor = "purple";
        }
        if(e.target.id==='blue'){
         body.style.backgroundColor = e.target.id;
